@@ -12,11 +12,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
-weibo_username:     二毛
-zhihu_username:     二毛
-github_username:    二毛
-twitter_username:   二毛
+RSS: false 
+zhihu_username:     https://www.zhihu.com/people/yuhan-peirong/activities
+github_username:    https://github.com/MRwangmaomao
+#twitter_username:   二毛
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +58,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: wpr
 
 # Netease settings
 netease_comment: false
@@ -106,34 +105,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "CSDN博客",
+        href: "https://blog.csdn.net/qq_16481211"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "ROS",
+        href: "http://wiki.ros.org"
     }
 ]
