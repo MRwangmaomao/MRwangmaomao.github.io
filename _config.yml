@@ -6,14 +6,14 @@ email: wpr17@mails.tsinghua.edu.cn
 description: "机器人 编程 电子技术 自然科学 机器视觉 算法设计"
 keyword: "SLAM ROS electronic Algorithm"
 #url: "https://huangxuan.me"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false 
-zhihu_username:     https://www.zhihu.com/people/yuhan-peirong/activities
+zhihu_username:     yuhan-peirong
 github_username:    MRwangmaomao
 #twitter_username:   二毛
 #facebook_username:  huxpro
