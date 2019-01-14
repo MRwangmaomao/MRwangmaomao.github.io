@@ -111,5 +111,9 @@ friends: [
     },{
         title: "ROSwiki",
         href: "http://wiki.ros.org/"
+    },{
+        title: "冯兵的博客",
+        href: "http://www.fengbing.net/"
     }
+	
 ]
